@@ -10,7 +10,7 @@
 
 #### REQ PROTOCOL
 |WHEN | PROTOCOL |
-|-- | --|
+|---- | --------|
 | CONNECTION | connection |
 | JOIN REQ | 10K_SOCKET_JOIN |
 | OPERATION SWITCH STATE | 10K_SOCKET_OPERATION |
