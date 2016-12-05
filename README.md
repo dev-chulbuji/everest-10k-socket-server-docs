@@ -18,7 +18,7 @@
 | ---- | ---- |
 | JOIN RES | `10K_SOCKET_JOIN_RES` |
 | OPERATION SWITCH STATE | `10K_SOCKET_OPERATION_RES` |
-###
+---
 
 #### SOCKET RES CODE
 socket 통신의 결과 code; 200이 아닌 경우 request client에만 res, 200인 경우 room에 속해 있는 client들에게 broadcast
@@ -49,7 +49,7 @@ switch state 제어할 때
 }
 ```
 
-### ERROR
+#### ERROR
 | CASE | DESCRIPTION |
 | ---- | ---- |
 | UNAUTHORIZED | token expire or wrong token |
