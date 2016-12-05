@@ -1,7 +1,5 @@
 # 10K SOCKET SERVER DOSC
 
----
-
 ### SOCKET PROTOCOL
 
 ##### IP: `http://{goqual core api server sub domain}`
