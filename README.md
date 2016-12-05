@@ -21,6 +21,7 @@
 
 ### SOCKET RES CODE
 socket 통신의 결과 code; 200이 아닌 경우 request client에만 res, 200인 경우 room에 속해 있는 client들에게 broadcast
+
 | CODE | DESCRIPTION |
 | ---- | ---- |
 | 200 | SUCCESS |
