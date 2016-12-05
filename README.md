@@ -23,7 +23,7 @@
 
 ### SOCKET RES CODE
 | CODE | DESCRIPTION |
-| -- | -- |
+| ---- | ---- |
 | 200 | SUCCESS |
 | 400 | BAD_REQUEST |
 | 401 | UNAUTHORIZED |
@@ -50,7 +50,7 @@ switch state 제어할 때
 
 ### ERROR
 | CASE | DESCRIPTION |
-| -- | -- |
+| ---- | ---- |
 | UNAUTHORIZED | token expire or wrong token |
 | SERVER ERROR | database transaction or err message |
 | SERVER ERROR (operation) | no existed switch |
